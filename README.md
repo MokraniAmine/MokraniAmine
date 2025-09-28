@@ -4,8 +4,6 @@
 
 ## I'm a front-end developer !
 
-- 🔭 I’m currently working on **Travel Agency web site**
-
 - 🌱 I’m currently learning **Advanced front-end frameworks (React/Vue.js), cloud infrastructure management.**
 
 - 👯 I’m looking to collaborate on **Full-stack projects,Projects that combine front-end development with cloud technologies**
